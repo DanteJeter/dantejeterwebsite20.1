@@ -1,0 +1,20 @@
+DANTEJETER.COM 20.1.2 TARGETED UPDATE
+
+Upload all three website files in this package to the top level of the GitHub repository:
+
+1. listings-config.js
+2. 1130-north-chester-street.html
+3. 3928-hanlin-way.html
+
+When GitHub asks, choose to replace the existing files with the same names.
+Do not create a new subfolder. These files belong beside index.html and listings.html.
+
+This cumulative update preserves the change to 1130 North Chester Street as Under Contract and changes 3928 Hanlin Way from Under Contract to Sold on:
+
+- The homepage
+- The Listings page
+- The individual property page
+
+3928 Hanlin Way will no longer appear among current homepage listings. It will appear in the Recently Sold display on the Listings page.
+
+Because the master configuration limits Under Contract galleries, 1130 North Chester Street will display no more than 12 property photos.
