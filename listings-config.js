@@ -397,8 +397,8 @@ window.MASTER_PROPERTIES = {
 
   "1130-north-chester-street": {
     id: "1130-north-chester-street",
-    version: "18.1",
-    status: "Active",
+    version: "20.1.1",
+    status: "Under Contract",
     featured: true,
     featuredOrder: 6,
     community: "New Cumberland",

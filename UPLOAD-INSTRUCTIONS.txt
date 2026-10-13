@@ -1,0 +1,17 @@
+DANTEJETER.COM 20.1.1 TARGETED UPDATE
+
+Upload both files in this package to the top level of the GitHub repository:
+
+1. listings-config.js
+2. 1130-north-chester-street.html
+
+When GitHub asks, choose to replace the existing files with the same names.
+Do not create a new subfolder. These files belong beside index.html and listings.html.
+
+This update changes 1130 North Chester Street from Active to Under Contract on:
+
+- The homepage
+- The Listings page
+- The individual property page
+
+Because the master configuration already limits Under Contract galleries, the listing will display no more than 12 property photos.
